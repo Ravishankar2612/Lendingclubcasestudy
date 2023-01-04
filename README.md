@@ -1,8 +1,5 @@
 "# Lendingclubcasestudy" 
-<<<<<<< HEAD
 
-=======
->>>>>>> 582d8f37a91589933c10bce4dfe9407a4b55cc0c
 Project Overview - To Understand the loan applicants data and make relevant insights for performing Risk analysis
 
 ##Table of contents
